@@ -1,0 +1,2 @@
+this is the second git project folder 
+this is thesecond code for git
